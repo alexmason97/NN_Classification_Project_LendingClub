@@ -1,0 +1,2 @@
+# NN_Classification_Project_LendingClub
+This notebook looks at analyzing some loan information from a kaggle dataset from LendingClub. The goal of this notebook is to create a classification neural network that is able to accurately predict whether an individual would recieve the laon they applied for or if it would be rejected. The reason for this is to determine if the individual would be able to pay back their loan to the lender so that the lender's investment will not be forfeit.
